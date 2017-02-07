@@ -1,0 +1,22 @@
+{
+  "name": "switchboard-client",
+  "version": "0.0.1337",
+  "description": "(>._.)> _|__|_",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/switchboard-forum/switchboard-client.git"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "Donald J. Trump",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/switchboard-forum/switchboard-client/issues"
+  },
+  "homepage": "https://github.com/switchboard-forum/switchboard-client#readme"
+}
