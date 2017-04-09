@@ -16,7 +16,7 @@ module.exports = React.createClass({
       <html>
         <head>
           <title>Switchboard Prototype</title>
-      <link rel="stylesheet" href="http://static.switchboard.sharkathan.com/YotsubaB.css" />
+      <link rel="stylesheet" href="http://static.switchboard.sharkathan.com/bluetheme.css" />
         </head>
         <body>
           <img src="http://sharkathan.com/sites/switchboard/alpha.png" id="banner"/>
