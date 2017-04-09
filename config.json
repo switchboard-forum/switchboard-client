@@ -1,5 +1,9 @@
 {
-    "http": {
-        "port": 8080
-    }
+  "http": {
+    "port": 8090
+  },
+  "tcp": {
+    "port": 31337
+  },
+  "notification": "You have reached Switchboard, blimpy's new forum software. Currently this alpha is closed, but I'll open it up once I get a usable UI working. When it opens, the only usable board will be the one you're viewing right now - /ca/. Eventually though, more boards will be opened. I will work with some communities to see if they're interested in their own board on this site, but at the moment nothing is certain. This message will be updated when further news comes in."
 }

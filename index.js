@@ -12,7 +12,7 @@ let Component = require("./Component.jsx");
 
 let client = new net.Socket();
 
-client.connect(31337, '127.0.0.1', () => {
+client.connect(config.tcp.port, '127.0.0.1', () => {
   console.log('Connected');
 });
 
@@ -33,4 +33,4 @@ server.get('/', (request, response) => {
   response.send(html);
 });
 
-server.listen(8086);
+server.listen(config.http.port);

@@ -1,0 +1,25 @@
+body {
+  font-size: 12px;
+  font-family: sans;
+  background-image: linear-gradient(to bottom, #D1D5EE 0px, #EEF2FF 200px);
+  height: 100%;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+}
+
+#banner {
+  display: block;
+  margin: 0 auto;
+}
+
+#notification {
+  display: block;
+  padding: 5px;
+  margin: 0 auto;
+  max-width: 500;
+  background-color: #D1D5EE;
+  border: 1px dashed;
+}
